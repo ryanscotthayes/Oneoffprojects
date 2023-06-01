@@ -1,3 +1,2 @@
-http://mb.download.gigabyte.com/FileList/Swhttp/LiveUpdate4
-https://mb.download.gigabyte.com/FileList/Swhttp/LiveUpdate4
-https://software-nas/Swhttp/LiveUpdate4
+mb.download.gigabyte.com
+software-nas
