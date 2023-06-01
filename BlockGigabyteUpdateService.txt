@@ -1,2 +1,1 @@
 mb.download.gigabyte.com
-software-nas
